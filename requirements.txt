@@ -1,0 +1,10 @@
+httpx
+msgpack
+websockets
+PyJWT
+rich
+fastapi
+uvicorn
+pydantic
+APScheduler
+python-json-logger
